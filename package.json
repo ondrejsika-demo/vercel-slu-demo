@@ -1,0 +1,14 @@
+{
+  "name": "n1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "os-bin-demo": "^0.2.1"
+  },
+  "scripts": {
+    "ip": "slu ip",
+    "version": "slu static-api version -p",
+    "all": "yarn run ip && yarn run version"
+  }
+}
