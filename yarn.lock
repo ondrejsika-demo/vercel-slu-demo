@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-os-bin-demo@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/os-bin-demo/-/os-bin-demo-0.2.1.tgz#799558bd1c264bb1b3f49fc05ab64b6b79d87441"
-  integrity sha512-yDQYzHRYqBOYSvSO6L/vfZXrHdZiJa0Nxc8uClj5lC4L8tEHvRdMihYEwFNlDg2J2knvlh3O8PgzMaw2LlQ5Gw==
+os-bin-demo@0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/os-bin-demo/-/os-bin-demo-0.3.0.tgz#53a90a5c0289bc9139f89c922d6cdec3a137732e"
+  integrity sha512-GyFMTQ8nHQET8ujsLR5WDAt4UyAdwbzgVU98nAeEe44GKdDqDz9qfTeyncMwHIdhPtUQkXNZho1oeAh4VhNeBA==
