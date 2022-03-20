@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "os-bin-demo": "0.3.0"
+    "os-bin-demo": "0.3.1"
   },
   "scripts": {
     "ip": "slu ip",
